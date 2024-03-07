@@ -1,1 +1,1 @@
-computergraphics.github.io
+computergraphics
